@@ -1,0 +1,11 @@
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\HepsiburadaTestProject.exe.config
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\obj\Debug\HepsiburadaTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\HepsiburadaTestProject.exe
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\HepsiburadaTestProject.pdb
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\nunit.framework.dll
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\WebDriver.dll
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\nunit.framework.pdb
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\nunit.framework.xml
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\bin\Debug\WebDriver.xml
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\obj\Debug\HepsiburadaTestProject.exe
+C:\Users\Burak Bey\Desktop\HepsiburadaTestProject\HepsiburadaTestProject\obj\Debug\HepsiburadaTestProject.pdb
